@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @waleedshoaib2
-- 👀 I’m interested in Web Dev/ Blockchain Dev
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on DAPPS
-- 📫 How to reach me? Hit me up on instagram @wldshb_
+-Hi, I am Waleed Shoaib, a final-year student at Comsats University Islamabad, Wah Campus
+-I have been a backend developer at Eastlancers for the past 2 years
+-I can work with React JS, Node JS, Express JS, Laravel, Mongo DB, SQL
+
 
 
