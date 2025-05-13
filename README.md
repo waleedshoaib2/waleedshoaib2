@@ -1,5 +1,61 @@
 # 💫 About Me:
-💼 I’m currently working on:<br>Developing and maintaining the social media platform "Rabbito" at Objex, using microservices architecture on Google Cloud Platform to ensure scalability and reliability. I’m focusing on optimizing GraphQL APIs, integrating multiple third-party APIs (e.g., Facebook, LinkedIn, YouTube), and building real-time data pipelines with Google Pub/Sub.<br><br>🤝 I’m looking to collaborate on:<br>Open-source AI/ML projects, modern frontend libraries like React components, and cloud-native applications. I am particularly interested in decentralized social networking projects using protocols like ActivityPub, real-time data processing applications, and tools that help optimize API performance and scalability.<br><br>🤲 I’m looking for help with:<br>Advanced Node.js scalability strategies, optimizing GraphQL API performance, and implementing efficient Firestore indexing for complex queries. I would also appreciate insights on best practices for serverless architecture, cost optimization on GCP, and effective load balancing techniques.<br><br>🌱 I’m currently learning:<br>Relational calculus for deepening my understanding of database theory, advanced Firestore indexing techniques to reduce read and write costs, and prompt engineering to enhance conversational AI systems. Additionally, I’m exploring cloud infrastructure optimization on GCP and modern JavaScript/TypeScript patterns.<br><br>💬 Ask me about:<br>React, Next.js, backend optimization, and integrating APIs like Facebook Graph, YouTube, and LinkedIn. I can also share insights on building scalable microservices on GCP and using GraphQL to optimize data handling.<br><br>⚡ Fun fact:<br>I think I am funny, I’m an avid fan of both cricket and football, and I love playing chess. I also enjoy reading books, particularly those by Haruki Murakami.
+I'm an **AI Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval.
+
+Previously, I was a **Software Engineer at Objex**, where I developed and maintained a scalable social media platform using **microservices architecture on GCP**, with a focus on **GraphQL APIs**, **event-driven systems**, and **third-party integrations**.
+
+I’m passionate about **AI research**, **prompt engineering**, **cloud-native development**, and **decentralized systems like ActivityPub**.
+
+---
+
+## 🤝 Open to Collaborating On
+
+- Open-source **AI/ML projects** and LLM tooling  
+- Modern frontend components using **React**, **Next.js**, or **Tailwind CSS**  
+- **Cloud-native applications** on **GCP** and **AWS**  
+- **Decentralized social networking** using **ActivityPub**  
+- Real-time data processing and event-driven architectures  
+- API optimization tools for performance and scalability  
+
+---
+
+## 🙋 Looking for Help With
+
+- Advanced **Node.js scalability strategies**  
+- Optimizing **GraphQL APIs** for complex data structures  
+- Efficient **Firestore indexing** and query optimization  
+- Best practices for **serverless architecture**  
+- Cost-effective use of **GCP services**  
+- Effective **load balancing** and traffic management techniques  
+
+---
+
+## 📚 Currently Learning
+
+- **Relational calculus** for deeper database theory understanding  
+- **Advanced Firestore indexing** to reduce read/write costs  
+- **Prompt engineering** for better conversational AI systems  
+- **Cloud infrastructure optimization** on GCP  
+- Modern **JavaScript/TypeScript patterns** and best practices  
+
+---
+
+## 💬 Ask Me About
+
+- Building **agentic AI workflows** with LangGraph and Reflexion  
+- Implementing **RAG pipelines**, **vector databases**, and **semantic search**  
+- **Prompt engineering**, context handling, and memory management for LLMs  
+- Backend optimization using **Node.js**, **Express**, and **GraphQL**  
+- Integrating **Facebook Graph API**, **YouTube API**, and **LinkedIn API**  
+- Building **scalable microservices** on **GCP**  
+- Using **Prometheus**, **Grafana**, and **Jenkins** for monitoring and CI/CD  
+
+---
+
+## ⚡ Fun Fact
+
+I’m a big fan of **cricket** and **football**, love playing **chess**, and enjoy reading books—especially by **Haruki Murakami**. And yes, I think I'm pretty funny too 😄.
+
+<br><br>⚡ Fun fact:<br>I think I am funny, I’m an avid fan of both cricket and football, and I love playing chess. I also enjoy reading books, particularly those by Haruki Murakami.
 
 
 ## 🌐 Socials:
