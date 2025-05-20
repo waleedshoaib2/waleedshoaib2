@@ -55,8 +55,6 @@ I’m passionate about **AI research**, **prompt engineering**, **cloud-native d
 
 I’m a big fan of **cricket** and **football**, love playing **chess**, and enjoy reading books—especially by **Haruki Murakami**. And yes, I think I'm pretty funny too 😄.
 
-<br><br>⚡ Fun fact:<br>I think I am funny, I’m an avid fan of both cricket and football, and I love playing chess. I also enjoy reading books, particularly those by Haruki Murakami.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waleed-shoaib-096415213/) 
