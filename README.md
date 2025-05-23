@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an **AI Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval.
+I'm an **AI Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies and Web3 Technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval.
 
 Previously, I was a **Software Engineer at Objex**, where I developed and maintained a scalable social media platform using **microservices architecture on GCP**, with a focus on **GraphQL APIs**, **event-driven systems**, and **third-party integrations**.
 
