@@ -1,15 +1,17 @@
 # 💫 About Me:
-I'm an **AI Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies and Web3 Technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval.
+I'm an **Software Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies and Web3 Technologies using both frontend and backend technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval. Designing User interfaces using Next JS, React JS as well. I have extensive experience working with Node JS based backend services too. 
 
 Previously, I was a **Software Engineer at Objex**, where I developed and maintained a scalable social media platform using **microservices architecture on GCP**, with a focus on **GraphQL APIs**, **event-driven systems**, and **third-party integrations**.
 
-I’m passionate about **AI research**, **prompt engineering**, **cloud-native development**, and **decentralized systems like ActivityPub**.
+I’m passionate about **AI research**, **prompt engineering**, **cloud-native development**, and **Full Stack Development**.
 
 ---
 
 ## 🤝 Open to Collaborating On
 
-- Open-source **AI/ML projects** and LLM tooling  
+- Open-source **AI/ML projects** and LLM tooling
+- Full Stack Development
+- SaaS product
 - Modern frontend components using **React**, **Next.js**, or **Tailwind CSS**  
 - **Cloud-native applications** on **GCP** and **AWS**  
 - **Decentralized social networking** using **ActivityPub**  
@@ -47,7 +49,8 @@ I’m passionate about **AI research**, **prompt engineering**, **cloud-native d
 - Backend optimization using **Node.js**, **Express**, and **GraphQL**  
 - Integrating **Facebook Graph API**, **YouTube API**, and **LinkedIn API**  
 - Building **scalable microservices** on **GCP**  
-- Using **Prometheus**, **Grafana**, and **Jenkins** for monitoring and CI/CD  
+- Using **Prometheus**, **Grafana**, and **Jenkins** for monitoring and CI/CD
+- Full Stack Development
 
 ---
 
