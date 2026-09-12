@@ -1,82 +1,53 @@
-# 💫 About Me:
-I'm an **Software Engineer** currently working at **Aeyron**, where I design and develop intelligent systems using cutting-edge AI/ML technologies and Web3 Technologies using both frontend and backend technologies. My work involves building **graph agentic workflows**, optimizing **RAG pipelines**, implementing **LLM memory management**, and integrating **vector databases like Milvus** for semantic search and retrieval. Designing User interfaces using Next JS, React JS as well. I have extensive experience working with Node JS based backend services too. 
+# Hey, I'm Waleed Shoaib 👋
 
-Previously, I was a **Software Engineer at Objex**, where I developed and maintained a scalable social media platform using **microservices architecture on GCP**, with a focus on **GraphQL APIs**, **event-driven systems**, and **third-party integrations**.
+**CTO at [Aeyron](https://aeyron.com)** — I build AI systems that retrieve, reason, reflect, and get better over time.
 
-I’m passionate about **AI research**, **prompt engineering**, **cloud-native development**, and **Full Stack Development**.
-
----
-
-## 🤝 Open to Collaborating On
-
-- Open-source **AI/ML projects** and LLM tooling
-- Full Stack Development
-- SaaS product
-- Modern frontend components using **React**, **Next.js**, or **Tailwind CSS**  
-- **Cloud-native applications** on **GCP** and **AWS**  
-- **Decentralized social networking** using **ActivityPub**  
-- Real-time data processing and event-driven architectures  
-- API optimization tools for performance and scalability  
+My work sits at the intersection of **agentic AI architectures**, **retrieval-augmented generation**, **computer vision**, and **LLM memory management**. I care about systems that actually work in production — not just demos.
 
 ---
 
-## 🙋 Looking for Help With
+## 📄 Research
 
-- Advanced **Node.js scalability strategies**  
-- Optimizing **GraphQL APIs** for complex data structures  
-- Efficient **Firestore indexing** and query optimization  
-- Best practices for **serverless architecture**  
-- Cost-effective use of **GCP services**  
-- Effective **load balancing** and traffic management techniques  
+**Semantic-Conditioned Spectral Fusion for Label-Efficient Multispectral Adaptation of Frozen Remote-Sensing Vision–Language Models**
+Bakhtawar Ismail, Waleed Shoaib — *Under review at IEEE Geoscience and Remote Sensing Letters*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22729754.svg)](https://doi.org/10.5281/zenodo.22729754)
 
----
+We introduce SCSF, a parameter-efficient module (~0.1M params) that adapts frozen RGB remote-sensing vision–language models to multispectral imagery by using the model's own text-derived semantics to condition spectral fusion via FiLM. Gains of up to +4.6% OA on EuroSAT-MS and +1.7% mAP on BigEarthNet-v2, concentrated in the low-label regime.
 
-## 📚 Currently Learning
+## 🔧 What I Build
 
-- **Relational calculus** for deeper database theory understanding  
-- **Advanced Firestore indexing** to reduce read/write costs  
-- **Prompt engineering** for better conversational AI systems  
-- **Cloud infrastructure optimization** on GCP  
-- Modern **JavaScript/TypeScript patterns** and best practices  
+- **Computer Vision Systems** — YOLO-based detection, synthetic data pipelines, geospatial asset detection, domain adaptation
+- **Agentic RAG Pipelines** — graph-based workflows using LangGraph, LlamaIndex, and Reflexion for multi-step reasoning
+- **LLM Memory Systems** — persistent context management so AI doesn't forget mid-conversation
+- **Semantic Search** — vector database integration (Milvus, LanceDB, PGVector) for fast, accurate retrieval at scale
+- **Production AI** — turning research ideas into deployed systems with real evaluation metrics
 
----
+## 🏗 Previously
 
-## 💬 Ask Me About
+**Senior AI Engineer at Aeyron** — built production forex intelligence pipelines, multi-agent systems, and RAG architectures with Milvus and FinBERT.
 
-- Building **agentic AI workflows** with LangGraph and Reflexion  
-- Implementing **RAG pipelines**, **vector databases**, and **semantic search**  
-- **Prompt engineering**, context handling, and memory management for LLMs  
-- Backend optimization using **Node.js**, **Express**, and **GraphQL**  
-- Integrating **Facebook Graph API**, **YouTube API**, and **LinkedIn API**  
-- Building **scalable microservices** on **GCP**  
-- Using **Prometheus**, **Grafana**, and **Jenkins** for monitoring and CI/CD
-- Full Stack Development
+**AI Engineer at Catalic AI** — research automation agents with long-term memory and semantic search for financial/policy document analysis.
 
----
+**Software Engineer at Objex** — scaled a social media platform on GCP using microservices, GraphQL APIs, and event-driven architecture.
 
-## ⚡ Fun Fact
+## 🛠 Stack
 
-I’m a big fan of **cricket** and **football**, love playing **chess**, and enjoy reading books—especially by **Haruki Murakami**. And yes, I think I'm pretty funny too 😄.
+**AI/ML:** Python · LangChain · LangGraph · LlamaIndex · Milvus · RAG · Prompt Engineering
+**Computer Vision:** YOLO · OpenCV · Grounding DINO · EfficientLoFTR · Synthetic Data Generation
+**Backend:** Node.js · FastAPI · Express · GraphQL · GCP · AWS
+**Frontend:** Next.js · React · Tailwind CSS
+**DevOps:** Docker · Kubernetes · Terraform · ArgoCD · Prometheus · Grafana
 
+## 🔗 Find Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waleed-shoaib-096415213/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-shoaib-096415213)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9937-5461)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://waleedshoaib.netlify.app)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=waleedshoaib2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=waleedshoaib2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedshoaib2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ⚡ Outside Code
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=waleedshoaib2&theme=neon&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=waleedshoaib2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Cricket and football fan. Chess player. Murakami reader.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=waleedshoaib2&icon=6&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Building intelligent systems, not demos."*
